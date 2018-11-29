@@ -1,4 +1,4 @@
-##Graduate Publications
+## Graduate Publications
 
 1. **Arindam Jati** and Panayiotis Georgiou, _"Neural Predictive Coding using Convolutional Neural Networks towards Unsupervised Learning of Speaker Characteristics"_, arXiv preprint arXiv:1802.07860, Under Review in IEEE Transactions on Audio, Speech and Language Processing. 
 2. **Arindam Jati**, Paula Williams, Brian Baucom, and Panayiotis Georgiou, _"TOWARDS PREDICTING PHYSIOLOGY FROM SPEECH DURING STRESSFUL CONVERSATIONS: HEART RATE AND RESPIRATORY SINUS ARRHYTHMIA"_, In Proceedings of IEEE International Conference on Audio, Speech and Signal Processing (ICASSP), Calgary, Alberta, Canada, 2018.
