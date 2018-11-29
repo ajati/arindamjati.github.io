@@ -15,7 +15,7 @@ subtitle: Newest comes first.
 * **Arindam Jati** and Panayiotis Georgiou, _"Speaker2Vec: Unsupervised Learning and Adaptation of a Speaker Manifold using Deep Neural Networks with an Evaluation on Speaker Segmentation"_, Proceedings of Interspeech, 2017.
 * Md Nasir, **Arindam Jati**, Prashanth Gurunath Shivakumar, Sandeep Nallan Chakravarthula, and Panayiotis Georgiou, _"Multimodal and Multiresolution Depression Detection from Speech and Facial Landmark Features"_, Proceedings of the 6rd ACM International Workshop on Audio/Visual Emotion Challenge (AVEC). ACM, 2016.
 
-### Undergrad Journal publications
+### Undergrad Journal Publications
 * _"A novel segmentation approach for noisy medical images using Intuitionistic fuzzy divergence  with neighbourhood-based membership function"_, Journal of Microscopy, Wiley, 2014. **Arindam Jati**, Garima Singh, Subhranil Koley, Amit Konar, A. K. Ray, Chandan Chakraborty.
 * _"Object-shape recognition by tactile image analysis using support vector machine"_, International Journal of Pattern Recognition and Artificial Intelligence, World Scientific, 2014. Anwesha Khasnobish,  **Arindam Jati**, Garima Singh, Amit Konar and D. N. Tibarewala.
 * _"Automatic leukocyte nucleus segmentation by intuitionistic fuzzy divergence based thresholding"_, Micron, Elsevier, 2014. **Arindam Jati**, Garima Singh, Rashmi Mukherjee, Madhumala Ghosh, Amit Konar, Chandan Chakraborty, Atulya K. Nagar.
