@@ -1,5 +1,6 @@
 ### Graduate Publications
 
+* **Arindam Jati** and Panayiotis Georgiou, _"An Unsupervised Neural Prediction Framework for Learning Speaker Embeddings using Recurrent Neural Networks"_, In Proceedings of Interspeech, 2018.
 * **Arindam Jati** and Panayiotis Georgiou, _"Neural Predictive Coding using Convolutional Neural Networks towards Unsupervised Learning of Speaker Characteristics"_, arXiv preprint arXiv:1802.07860, Under Review in IEEE Transactions on Audio, Speech and Language Processing. 
 * **Arindam Jati**, Paula Williams, Brian Baucom, and Panayiotis Georgiou, _"TOWARDS PREDICTING PHYSIOLOGY FROM SPEECH DURING STRESSFUL CONVERSATIONS: HEART RATE AND RESPIRATORY SINUS ARRHYTHMIA"_, In Proceedings of IEEE International Conference on Audio, Speech and Signal Processing (ICASSP), Calgary, Alberta, Canada, 2018.
 * Williams, P.G., Baucom, B., **Jati, A.**, & Georgiou, P. (March, 2018).  _"Physiological and affective responses to stress are encoded in vocal acoustic properties"_, Paper presented at the 76th annual meeting of the American Psychosomatic Society, Louisville, KY.
