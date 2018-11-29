@@ -21,7 +21,7 @@ subtitle: Newest comes first.
 * _"Automatic leukocyte nucleus segmentation by intuitionistic fuzzy divergence based thresholding"_, Micron, Elsevier, 2014. **Arindam Jati**, Garima Singh, Rashmi Mukherjee, Madhumala Ghosh, Amit Konar, Chandan Chakraborty, Atulya K. Nagar.
 * _"Object-shape recognition and 3D reconstruction from tactile sensor images"_, Medical & Biological Engineering & Computing, Springer, 2014. Anwesha Khasnobish, Garima Singh, **Arindam Jati**, Amit Konar & D. N. Tibarewala.
 
-#### Undergrad Conference Publications
+### Undergrad Conference Publications
 * _"Object-shape recognition from tactile images using a feed-forward neural network"_, The International Joint Conference on Neural Networks (IJCNN), IEEE, 2012. Anwesha Khasnobish, **Arindam Jati**, Garima Singh, Saugat Bhattacharyya, Amit Konar, D. N. Tibarewala, Eunjin Kim, Atulya K. Nagar.
 * _"A hybridisation of Improved Harmony Search and Bacterial Foraging for multirobot motion planning"_, IEEE Congress on Evolutionary Computation 2012: 1-8. **Arindam Jati**, Garima Singh, Pratyusha Rakshit, Amit Konar, Eunjin Kim, Atulya K. Nagar.
 * _"The Role of Empirical Mode Decomposition on Emotion Classification Using Stimulated EEG Signals"_, International Conference on Advances in Computing and Information Technology (ACITY), 2012. Anwesha Khasnobish, Saugat Bhattacharyya, Garima Singh, **Arindam Jati**, Amit Konar, D. N. Tibarewala, R. Janarthanan.
