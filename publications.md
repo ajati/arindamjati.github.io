@@ -1,3 +1,11 @@
+---
+layout: page
+title: Publications
+subtitle: Newest comes first.
+---
+
+
+
 ### Graduate Publications
 
 * **Arindam Jati** and Panayiotis Georgiou, _"An Unsupervised Neural Prediction Framework for Learning Speaker Embeddings using Recurrent Neural Networks"_, In Proceedings of Interspeech, 2018.
@@ -11,7 +19,7 @@
 * _"A novel segmentation approach for noisy medical images using Intuitionistic fuzzy divergence  with neighbourhood-based membership function"_, Journal of Microscopy, Wiley, 2014. **Arindam Jati**, Garima Singh, Subhranil Koley, Amit Konar, A. K. Ray, Chandan Chakraborty.
 * _"Object-shape recognition by tactile image analysis using support vector machine"_, International Journal of Pattern Recognition and Artificial Intelligence, World Scientific, 2014. Anwesha Khasnobish,  **Arindam Jati**, Garima Singh, Amit Konar and D. N. Tibarewala.
 * _"Automatic leukocyte nucleus segmentation by intuitionistic fuzzy divergence based thresholding"_, Micron, Elsevier, 2014. **Arindam Jati**, Garima Singh, Rashmi Mukherjee, Madhumala Ghosh, Amit Konar, Chandan Chakraborty, Atulya K. Nagar.
-* _"Object-shape recognition and 3D reconstruction from tactile sensor images, Medical & Biological Engineering & Computing"_, Springer, 2014. Anwesha Khasnobish, Garima Singh, **Arindam Jati**, Amit Konar & D. N. Tibarewala.
+* _"Object-shape recognition and 3D reconstruction from tactile sensor images"_, Medical & Biological Engineering & Computing, Springer, 2014. Anwesha Khasnobish, Garima Singh, **Arindam Jati**, Amit Konar & D. N. Tibarewala.
 
 #### Undergrad Conference Publications
 * _"Object-shape recognition from tactile images using a feed-forward neural network"_, The International Joint Conference on Neural Networks (IJCNN), IEEE, 2012. Anwesha Khasnobish, **Arindam Jati**, Garima Singh, Saugat Bhattacharyya, Amit Konar, D. N. Tibarewala, Eunjin Kim, Atulya K. Nagar.
