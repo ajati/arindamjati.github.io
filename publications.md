@@ -1,0 +1,7 @@
+##Graduate Publications
+
+1. **Arindam Jati** and Panayiotis Georgiou, _"Neural Predictive Coding using Convolutional Neural Networks towards Unsupervised Learning of Speaker Characteristics"_, arXiv preprint arXiv:1802.07860, Under Review in IEEE Transactions on Audio, Speech and Language Processing. 
+2. **Arindam Jati**, Paula Williams, Brian Baucom, and Panayiotis Georgiou, _"TOWARDS PREDICTING PHYSIOLOGY FROM SPEECH DURING STRESSFUL CONVERSATIONS: HEART RATE AND RESPIRATORY SINUS ARRHYTHMIA"_, In Proceedings of IEEE International Conference on Audio, Speech and Signal Processing (ICASSP), Calgary, Alberta, Canada, 2018.
+Williams, P.G., Baucom, B., Jati, A., & Georgiou, P. (March, 2018).  "Physiological and affective responses to stress are encoded in vocal acoustic properties". Paper presented at the 76th annual meeting of the American Psychosomatic Society, Louisville, KY.
+Arindam Jati and Panayiotis Georgiou, Speaker2Vec: Unsupervised Learning and Adaptation of a Speaker Manifold using Deep Neural Networks with an Evaluation on Speaker Segmentation, Accepted at Interspeech, 2017.
+Md Nasir, Arindam Jati, Prashanth Gurunath Shivakumar, Sandeep Nallan Chakravarthula, and Panayiotis Georgiou, Multimodal and Multiresolution Depression Detection from Speech and Facial Landmark Features, Proceedings of the 6rd ACM International Workshop on Audio/Visual Emotion Challenge (AVEC). ACM, 2016.
