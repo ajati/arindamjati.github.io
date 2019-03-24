@@ -2,7 +2,6 @@
 layout: page
 title: About me
 subtitle: if you are interested...
-googlefonts: ["Germania One"]
 ---
 
 
