@@ -8,6 +8,7 @@ subtitle: Newest comes first.
 
 ### Graduate Publications
 
+* **Arindam Jati**, Naveen Kumar, Ruxin Chen, and Panayiotis Georgiou1, _"HIERARCHY-AWARE LOSS FUNCTION ON A TREE STRUCTURED LABEL SPACE FOR AUDIO EVENT DETECTION"_, In Proceedings of IEEE International Conference on Audio, Speech and Signal Processing (ICASSP), Brighton, UK, 2019.
 * **Arindam Jati** and Panayiotis Georgiou, _"An Unsupervised Neural Prediction Framework for Learning Speaker Embeddings using Recurrent Neural Networks"_, In Proceedings of Interspeech, 2018.
 * **Arindam Jati** and Panayiotis Georgiou, _"Neural Predictive Coding using Convolutional Neural Networks towards Unsupervised Learning of Speaker Characteristics"_, arXiv preprint arXiv:1802.07860, Under Review in IEEE Transactions on Audio, Speech and Language Processing. 
 * **Arindam Jati**, Paula Williams, Brian Baucom, and Panayiotis Georgiou, _"Towards Predicting Physiology from Speech During Stressful Conversations: Heart Rate and Respiratory Sinus Arrhythmia"_, In Proceedings of IEEE International Conference on Audio, Speech and Signal Processing (ICASSP), Calgary, Alberta, Canada, 2018.
