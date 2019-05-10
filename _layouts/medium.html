@@ -1,26 +1,19 @@
 ---
-common-css:
-  - "/css/bootstrap.min.css"
-  - "/css/main-minimal.css"
-common-js:
-  - "/js/jquery-1.11.2.min.js"
-  - "/js/bootstrap.min.js"
+layout: base
 ---
 
-<!DOCTYPE html>
-<html lang="en">
+{% include header.html type="page" %}
 
-  {% include header.html type="page" %}
-
-  <body>
-
-    <div role="main" class="container main-content">
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-0 col-md-8 col-md-offset-0">
       {{ content }}
+	    {% if page.comments %}
+        <div class="disqus-comments">
+	        {% include disqus.html %}
+        </div>
+	        {% include fb-comment.html %}
+	    {% endif %}
     </div>
-
-    {% include footer-minimal.html %}
-
-    {% include footer-scripts.html %}
-
-  </body>
-</html>
+  </div>
+</div>
