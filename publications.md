@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: medium
 title: Publications
 subtitle: Newest comes first.
 ---
