@@ -17,11 +17,15 @@ common-js:
     <div role="main" class="container main-content">
       {{ content }}
     </div>
-
-    {% include footer-minimal.html %}
 	  
+    {% include gtm_body.html %}
+  
     {% include nav.html %}
 
+    {{ content }}
+
+    {% include footer.html %}
+  
     {% include footer-scripts.html %}
 
   </body>
