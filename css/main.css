@@ -7,11 +7,10 @@ layout: null
 /* --- General --- */
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Times New Roman', serif;
   font-size: 15px;
   color: #404040;
   position: relative;
-  margin: 0 auto;
   background-color: {{ site.page-col }};
   {% if site.page-img %}
   background-image: url({{ site.page-img }});
