@@ -1,10 +1,10 @@
 ---
 layout: medium
 title: Publications
-subtitle: Newest comes first. [Google scholar profile](https://scholar.google.com/citations?hl=en&user=Gzal1y8AAAAJ).
+subtitle: Newest comes first.
 ---
 
-### [Google scholar profile](https://scholar.google.com/citations?hl=en&user=Gzal1y8AAAAJ).
+### [Google scholar profile](https://scholar.google.com/citations?hl=en&user=Gzal1y8AAAAJ)
 
 ### Graduate Publications
 * **Arindam Jati**, Raghuveer Peri, Monisankha Pal, Tae Jin Park, Naveen Kumar, Ruchir Travadi, Panayiotis Georgiou and Shrikanth Narayanan, _"Multi-task Discriminative Training of Hybrid DNN-TVM Model for Speaker Verification with Noisy and Far-Field Speech"_, Accepted at Interspeech 2019.
