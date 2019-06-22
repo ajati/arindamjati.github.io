@@ -11,7 +11,7 @@ Previously I was in [Signal Processing for Communication Understanding and Behav
 
 My research interests include machine learning, deep learning, speech and audio processing, speech recognition, speaker recognition, and behavioral signal processing.
 
-Before that, I worked at Polaris Networks Inc. for 2 years as Software Engineer - I and II.
+Before that, I worked at [Polaris Networks Inc.](http://www.polarisnetworks.net/) for 2 years as Software Engineer - I and II.
 
 I completed my undergraduate degree in Electronics and Telecommunication Engineering in [**Jadavpur University**](http://www.jaduniv.edu.in/), Kolkata, India.
 
