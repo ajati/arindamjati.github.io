@@ -1,11 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: if you are interested...
+subtitle: What I do and what I did?
 ---
 
 
-Hi! I am Arindam Jati, currently doing PhD in Electrical Engineering in [**Signal Processing for Communication Understanding and Behavior Analysis Laboratory (SCUBA)**](http://scuba.usc.edu) in [**University of Southern California (USC)**](https://www.usc.edu/). My research interests include machine learning, deep learning, speech and audio processing, speech recognition, speaker recognition, and behavioral signal processing.
+Hi! I am Arindam Jati, currently doing PhD in Electrical and Computer Engineering in [**Signal Analysis and Interpretation Laboratory (SAIL),**](http://sail.usc.edu) in [**University of Southern California (USC)**](https://www.usc.edu/). My advisor is [**Prof. Shrikanth Narayanan**](https://en.wikipedia.org/wiki/Shrikanth_Narayanan). 
+
+Previously I was in [Signal Processing for Communication Understanding and Behavior Analysis Laboratory (SCUBA)](http://scuba.usc.edu) and working under the supervision of Prof. Panayiotis Georgiou.  
+
+My research interests include machine learning, deep learning, speech and audio processing, speech recognition, speaker recognition, and behavioral signal processing.
 
 Before that, I worked at Polaris Networks Inc. for 2 years as Software Engineer - I and II.
 
