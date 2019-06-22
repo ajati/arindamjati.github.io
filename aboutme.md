@@ -5,7 +5,7 @@ subtitle: What I do and what I did?
 ---
 
 
-Hi! I am Arindam Jati, currently doing PhD in Electrical and Computer Engineering in [**Signal Analysis and Interpretation Laboratory (SAIL),**](http://sail.usc.edu) in [**University of Southern California (USC)**](https://www.usc.edu/). My advisor is [**Prof. Shrikanth Narayanan**](https://en.wikipedia.org/wiki/Shrikanth_Narayanan). 
+Hi! I am Arindam Jati, currently doing PhD in Electrical and Computer Engineering in [**Signal Analysis and Interpretation Laboratory (SAIL),**](http://sail.usc.edu) in [**University of Southern California (USC)**](https://www.usc.edu/) under the supervision of [**Prof. Shrikanth Narayanan**](https://en.wikipedia.org/wiki/Shrikanth_Narayanan). 
 
 Previously I was in [Signal Processing for Communication Understanding and Behavior Analysis Laboratory (SCUBA)](http://scuba.usc.edu) and working under the supervision of Prof. Panayiotis Georgiou.  
 
