@@ -1,7 +1,7 @@
 ---
 layout: medium
 title: Publications
-subtitle: Newest comes first.
+subtitle: Newest comes first. [Google scholar profile] (https://scholar.google.com/citations?hl=en&user=Gzal1y8AAAAJ).
 ---
 
 
