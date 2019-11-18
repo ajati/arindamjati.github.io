@@ -7,6 +7,9 @@ subtitle: Newest comes first.
 ### [Google scholar profile](https://scholar.google.com/citations?hl=en&user=Gzal1y8AAAAJ)
 
 ### Graduate Publications
+* **Arindam Jati**, and Dimitra Emmanouilidou, _"Supervised Deep Hashing for Efficient Audio Event Retrieval"_, Under review in ICASSP 2020.
+*	**Arindam Jati**, Amrutha Nadarajan, Karel Mundnich, and Shrikanth Narayanan, _"Characterizing dynamically varying acoustic scenes from egocentric audio recordings in workplace setting"_, Under review in ICASSP 2020. [arXiv preprint](https://arxiv.org/pdf/1911.03843.pdf)
+* Raghuveer Peri, Monisankha Pal, **Arindam Jati**, Krishna Somandepalli, and Shrikanth Narayanan, _"Robust speaker recognition using unsupervised adversarial invariance"_, Under review in ICASSP 2020. [arXiv preprint](https://arxiv.org/pdf/1911.00940.pdf)
 * **Arindam Jati**, Raghuveer Peri, Monisankha Pal, Tae Jin Park, Naveen Kumar, Ruchir Travadi, Panayiotis Georgiou and Shrikanth Narayanan, _"Multi-task Discriminative Training of Hybrid DNN-TVM Model for Speaker Verification with Noisy and Far-Field Speech"_, Accepted at Interspeech 2019.
 * Krishna Somandepalli, Naveen Kumar, **Arindam Jati**, Panayiotis Georgiou and Shrikanth Narayanan, _"Multiview Shared Subspace Learning across Speakers and Speech Commands"_, Accepted at Interspeech 2019.
 * **Arindam Jati**, Naveen Kumar, Ruxin Chen, and Panayiotis Georgiou1, _"Hierarchy-Aware Loss Function on a Tree Structured Label Space for Audio Event Detection"_, In Proceedings of IEEE International Conference on Audio, Speech and Signal Processing (ICASSP), Brighton, UK, 2019.
