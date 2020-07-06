@@ -32,9 +32,9 @@ div {
 </head>
 <body>
 
-<h2>Supervised Deep Hashing for Efficient Audio Retrieval</h2>
-<a href="https://www.microsoft.com/en-us/research/video/supervised-deep-hashing-for-efficient-audio-retrieval">Talk at Microsoft Research, Redmond, WA, USA</a>
-<a href="https://www.microsoft.com/en-us/research/uploads/prod/2020/06/ICASSP2020_Efficient_Audio_Retrieval.pdf">Paper</a>
+#### Supervised Deep Hashing for Efficient Audio Retrieval
+[Talk at Microsoft Research, Redmond, WA, USA](https://www.microsoft.com/en-us/research/video/supervised-deep-hashing-for-efficient-audio-retrieval)  
+[Paper](https://www.microsoft.com/en-us/research/uploads/prod/2020/06/ICASSP2020_Efficient_Audio_Retrieval.pdf)
 
 <div class="row">
   <div class="column">
