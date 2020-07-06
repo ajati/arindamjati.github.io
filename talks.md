@@ -4,8 +4,8 @@ title: Talks
 subtitle: Caffine helps...
 ---
 
-#### Supervised Deep Hashing for Efficient Audio Retrieval
-[Talk at Microsoft Research, Redmond, WA, USA](https://www.microsoft.com/en-us/research/video/supervised-deep-hashing-for-efficient-audio-retrieval) [(Paper)](https://www.microsoft.com/en-us/research/uploads/prod/2020/06/ICASSP2020_Efficient_Audio_Retrieval.pdf)
+### Supervised Deep Hashing for Efficient Audio Retrieval
+[Talk at Microsoft Research, Redmond, WA, USA](https://www.microsoft.com/en-us/research/video/supervised-deep-hashing-for-efficient-audio-retrieval) [**(Paper)**](https://www.microsoft.com/en-us/research/uploads/prod/2020/06/ICASSP2020_Efficient_Audio_Retrieval.pdf)
 
 <head>
 <style>
