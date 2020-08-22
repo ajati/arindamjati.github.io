@@ -7,6 +7,7 @@ subtitle: Newest comes first.
 ### [Google scholar profile](https://scholar.google.com/citations?hl=en&user=Gzal1y8AAAAJ)
 
 ### Graduate Publications
+* **Arindam Jati**, Chin-Cheng Hsu, Monisankha Pal, Raghuveer Peri, Wael AbdAlmageed, Shrikanth Narayanan, _"Adversarial Attack and Defense Strategies for Deep Speaker Recognition Systems"_, Under review in Elsevier Computer Speech and Language. [arXiv preprint](https://arxiv.org/pdf/2008.07685.pdf)
 * **Arindam Jati**, Amrutha Nadarajan, Raghuveer Peri, Karel Mundnich, Tiantian Feng, Benjamin Girault, and Shrikanth Narayanan, _"Temporal Dynamics of Workplace Acoustic Scenes: Egocentric Analysis and Prediction"_, Under review in IEEE/ACM Transactions on Audio, Speech, and Language Processing.
 * Raghuveer Peri, Haoqi Li, Krishna Somandepalli, **Arindam Jati**, and Shrikanth Narayanan, _"An empirical analysis of information encoded in disentangled neural speaker representations"_, in Odyssey: The Speaker and Language Recognition Workshop, 2020. [arxiv preprint](https://arxiv.org/pdf/2002.03520.pdf)
 * **Arindam Jati**, and Dimitra Emmanouilidou, [_"Supervised Deep Hashing for Efficient Audio Event Retrieval"_](https://www.microsoft.com/en-us/research/uploads/prod/2020/06/ICASSP2020_Efficient_Audio_Retrieval.pdf), in ICASSP 2020.
