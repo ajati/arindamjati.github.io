@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Codes
-subtitle: "What I cannot create, I do not understand." - Richard Feynman.
+subtitle: What I cannot create, I do not understand. - Richard Feynman.
 ---
 
 
