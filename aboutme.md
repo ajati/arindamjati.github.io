@@ -5,11 +5,11 @@ subtitle: What I do and what I did?
 ---
 
 
-Hi! I am Arindam Jati, currently doing PhD in Electrical and Computer Engineering in [**Signal Analysis and Interpretation Laboratory (SAIL),**](http://sail.usc.edu) in [**University of Southern California (USC)**](https://www.usc.edu/) under the supervision of [**Prof. Shrikanth Narayanan**](https://en.wikipedia.org/wiki/Shrikanth_Narayanan). 
+Hi! I am Arindam Jati. I am currently working at [**IBM Research**](https://research.ibm.com), Bangalore, India as a Research Scientist.
 
-Previously I was in [Signal Processing for Communication Understanding and Behavior Analysis Laboratory (SCUBA)](http://scuba.usc.edu) and working under the supervision of Prof. Panayiotis Georgiou.  
+I did my PhD in Electrical Engineering from [**University of Southern California (USC)**](https://www.usc.edu/) under the supervision of [**Prof. Shrikanth Narayanan**](https://en.wikipedia.org/wiki/Shrikanth_Narayanan) (have a look at [**Signal Analysis and Interpretation Laboratory (SAIL),**](http://sail.usc.edu)). 
 
-My research interests include machine learning, deep learning, speech and audio processing, speech recognition, speaker recognition, adversarial robustness of deep networks, and behavioral signal processing.
+My current research interests include machine learning, deep neural networks, explainable AI, and timeseries forecasting.
 
 Before that, I worked at [Polaris Networks Inc.](http://www.polarisnetworks.net/) for 2 years as Software Engineer - I and II.
 
@@ -19,7 +19,4 @@ This page provides some details of my professional activities. If you require fu
 
 ## Contact me
 Arindam Jati  
-3740 McClintock Avenue, Room EEB B16  
-University of Southern California  
-Los Angeles, CA 90089-2564, USA  
-E-mail: my_last_name[AT]usc[DOT]edu  
+E-mail: <firstnamelastname>[AT]gmail[DOT]com  
